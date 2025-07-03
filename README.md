@@ -43,6 +43,13 @@ pip install -r requirements.txt
 ## Flow Diagram : 
 ![diagram-export-03-07-2025-06_45_04](https://github.com/user-attachments/assets/b33e7b1a-8d1d-4637-b0cc-eeab3f39a313)
 
+## Results : 
+## API : hunter.io 
+
+### Without API :
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/abd7909d-8a58-4e35-a118-9ba31a9dc2e5" />
+
+### With API : 
 
 
 
