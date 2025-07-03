@@ -32,3 +32,8 @@ Connects to the domain’s primary mail server and simulates sending a message (
 ```bash
 pip install dnspython
 
+----
+Architecture and Flow Diagram 
+
+
+
