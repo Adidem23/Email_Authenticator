@@ -6,9 +6,6 @@ This is a simple Python script to validate whether an email address is **likely 
 2. 📡 MX (Mail Exchange) DNS record
 3. 📬 Mailbox existence via SMTP handshake
 
-
----
-
 ## 🚀 How It Works
 
 ### ✅ Step 1: Format Validation
@@ -20,22 +17,31 @@ Uses DNS to get the domain’s MX records. If no MX exists, the domain can't rec
 ### 📬 Step 3: SMTP Check
 Connects to the domain’s primary mail server and simulates sending a message (no real email is sent). If the server responds with code `250`, the recipient likely exists.
 
----
 
-## 🔧 Requirements
-
+## 🔧 Dependancy Requirements : 
 - Python 3.6+
-- `dnspython` module
+- dnspython
 - requests
 - python_dotenv
 
-### 📦 Install
+## 📦 Steps :
+### 1. Create a VENV first 
+```sh
+python -m venv venv
+```
 
-```bash
-pip install dnspython
+### 2. Activate VENV 
+```sh
+./venv/Scripts/activate
+```
 
-----
-Architecture and Flow Diagram 
+### 3. Download All Requirements 
+```sh
+pip install -r requirements.txt
+```
+
+
+## Architecture and Flow Diagram : 
 
 
 
