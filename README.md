@@ -26,6 +26,8 @@ Connects to the domain’s primary mail server and simulates sending a message (
 
 - Python 3.6+
 - `dnspython` module
+- requests
+- python_dotenv
 
 ### 📦 Install
 
