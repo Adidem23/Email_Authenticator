@@ -44,14 +44,11 @@ pip install -r requirements.txt
 ![diagram-export-03-07-2025-06_45_04](https://github.com/user-attachments/assets/b33e7b1a-8d1d-4637-b0cc-eeab3f39a313)
 
 ## Results : 
-### Email Verifier API : <a href="hunter.io">Hunter</a> 
+### For EMAIL verifier API check [Hunter.io](https://hunter.io/) .
+
 
 ### Without API :
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/abd7909d-8a58-4e35-a118-9ba31a9dc2e5" />
 
 ### With API : 
 ![Screenshot 2025-07-03 065519](https://github.com/user-attachments/assets/69eb6f19-d48b-4d1d-9ce4-b35618d366ff)
-
-
-
-
