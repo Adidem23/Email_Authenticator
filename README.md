@@ -40,8 +40,9 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
+## Flow Diagram : 
+![Uploading diagram-export-03-07-2025-06_45_04.png…]()
 
-## Architecture and Flow Diagram : 
 
 
 
